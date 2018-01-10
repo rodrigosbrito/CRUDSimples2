@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\CRUDSimples2.Data.dll.config
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\CRUDSimples2.Data.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\CRUDSimples2.Data.pdb
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\CRUDSimples2.Domain.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\CRUDSimples2.Domain.pdb
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\obj\Debug\CRUDSimples2.Data.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\obj\Debug\CRUDSimples2.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\obj\Debug\CRUDSimples2.Data.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Data\obj\Debug\CRUDSimples2.Data.pdb

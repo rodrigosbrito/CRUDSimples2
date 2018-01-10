@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Domain\bin\Debug\CRUDSimples2.Domain.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Domain\bin\Debug\CRUDSimples2.Domain.pdb
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Domain\obj\Debug\CRUDSimples2.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Domain\obj\Debug\CRUDSimples2.Domain.dll
+D:\Documents\Visual Studio 2015\Projects\CRUDSimples2\CRUDSimples2.Domain\obj\Debug\CRUDSimples2.Domain.pdb
